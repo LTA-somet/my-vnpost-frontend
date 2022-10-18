@@ -1,0 +1,31 @@
+.note {
+  padding: 13px;
+  color: red;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.table {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.border-row {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.border-tdr {
+  width: 75%;
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
+}
+.table th {
+  padding: 5px 5px;
+  color: rgba(0, 0, 0, 0.85);
+  text-align: left;
+  background-color: #fff3d8;
+}
+.table td {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}

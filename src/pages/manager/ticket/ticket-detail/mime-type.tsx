@@ -1,0 +1,21 @@
+export const MimeType = [
+    { extension: "txt", mimeType: "text/plain" },
+    { extension: "csv", mimeType: "text/csv" },
+    { extension: "doc", mimeType: "application/msword" },
+    { extension: "docx", mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.document" },
+    { extension: "gif", mimeType: "image/gif" },
+    { extension: "htm", mimeType: "text/csv" },
+    { extension: "html", mimeType: "text/csv" },
+    { extension: "json", mimeType: "application/json" },
+    { extension: "png", mimeType: "image/png" },
+    { extension: "jpg", mimeType: "image/jpg" },
+    { extension: "jpeg", mimeType: "image/jpeg" },
+    { extension: "pdf", mimeType: "application/pdf" },
+    { extension: "rar", mimeType: "application/vnd.rar" },
+    { extension: "xls", mimeType: "application/vnd.ms-excel" },
+    { extension: "xlsx", mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" },
+    { extension: "xml", mimeType: "application/xml" },
+    { extension: "zip", mimeType: "application/zip" },
+    { extension: "7z", mimeType: "application/x-7z-compressed" },
+
+]

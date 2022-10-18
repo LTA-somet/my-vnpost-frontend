@@ -1,0 +1,40 @@
+#table-service-fee {
+  width: 100%;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+}
+#table-service-fee tr,
+#table-service-fee td,
+#table-service-fee th {
+  padding: 8px;
+  /* border-bottom: 1px solid rgba(0, 0, 0, 0.2); */
+}
+
+#table-service-fee th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: rgba(0, 0, 0, 0.85);
+  text-align: left;
+  background-color: #ffffff;
+}
+.table-service-fee {
+  width: 100%;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+}
+.table-service-fee tr,
+.table-service-fee td,
+.table-service-fee th {
+  padding: 8px;
+  border-bottom: none;
+}
+
+.table-service-fee th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: rgba(0, 0, 0, 0.85);
+  text-align: left;
+  background-color: #c7dbeb;
+}

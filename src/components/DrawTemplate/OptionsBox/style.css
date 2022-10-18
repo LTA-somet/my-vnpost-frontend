@@ -1,0 +1,27 @@
+.g-title {
+  width: calc(100% + 26px);
+  height: 62px;
+  margin: -14px -14px 0 -14px;
+  margin-bottom: 14px;
+  font-weight: 600;
+  font-size: large;
+  line-height: 62px;
+  text-align: center;
+  background-color: #85a5ff;
+}
+.g-btn-group {
+  border: 1px solid #555555;
+}
+.g-upload-img {
+  text-align: center;
+}
+.g-thumbnail {
+  max-width: 100px;
+  max-height: 100px;
+}
+.g-label {
+  margin-top: 10px;
+}
+.g-number {
+  width: 100%;
+}

@@ -1,0 +1,6 @@
+.g-form-edit .ant-form-item-explain {
+  min-height: 0 !important;
+}
+.g-focus {
+  box-shadow: rgb(90, 192, 252) 0px 1px 2px, rgb(90, 192, 252) 0px 0px 0px 1px;
+}

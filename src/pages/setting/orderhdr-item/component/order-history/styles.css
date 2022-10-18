@@ -1,0 +1,13 @@
+#rcDialogTitle4 {
+  font-weight: bold;
+}
+
+.myChat img {
+  text-decoration: none !important;
+  opacity: 0.5 !important;
+}
+
+.myChat img:hover {
+  color: #fff !important;
+  opacity: 2 !important;
+}

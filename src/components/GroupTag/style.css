@@ -1,0 +1,7 @@
+.g-group-tag .ant-collapse-content {
+  background-color: #f1f5f9;
+}
+.g-group-tag .fadeInRight {
+  animation-name: none;
+  animation-duration: 1s;
+}

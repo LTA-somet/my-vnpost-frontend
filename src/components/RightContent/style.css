@@ -1,0 +1,26 @@
+@media only screen and (min-width: 576px) {
+  .g-avatar {
+    display: inline !important;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .g-avatar {
+    display: none !important;
+  }
+}
+
+.g-menu-panel {
+  min-width: 350px;
+  padding: 0 20px 0 20px;
+}
+.g-menu-row {
+  padding: 10px;
+}
+.g-bottom-item {
+  margin: 0 2px 0 5px;
+  padding: 5px 10px 5px 20px;
+  cursor: pointer;
+}
+.g-bottom-item:hover {
+  background-color: whitesmoke;
+}

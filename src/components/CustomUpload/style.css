@@ -1,0 +1,40 @@
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  backface-visibility: hidden;
+  opacity: 1;
+  transition: 0.5s ease;
+}
+
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: 0.5s ease;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  /* left: -100%; */
+  /* margin: auto; */
+  /* margin-left: -100px; */
+  color: white;
+  background-color: #c7c7c7;
+}

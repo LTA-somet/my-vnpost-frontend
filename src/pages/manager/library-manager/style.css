@@ -1,0 +1,24 @@
+#table-library-manager {
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+}
+
+#table-library-manager td,
+#table-library-manager th {
+  padding: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+#table-library-manager th {
+  /* margin-bottom: 1rem !important; */
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 12px;
+  text-align: left;
+  background-color: #c7dbeb;
+}
+.jodit-container:not(.jodit_inline) .jodit-workplace {
+  background-color: white;
+}

@@ -1,0 +1,5 @@
+{
+	"fileNaming": "kebab-case",
+	"serviceFileSuffix": ".client",
+	"serviceSuffix": "Client"
+}

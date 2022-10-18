@@ -1,0 +1,7 @@
+.table-row-light {
+  background-color: #ffffff;
+}
+.table-row-error {
+  /* background-color: red; */
+  color: red;
+}

@@ -1,0 +1,6 @@
+.g-menu-item:hover {
+  background-color: #ffecc2;
+}
+.g-menu-item-selected {
+  background-color: #fcb71e;
+}

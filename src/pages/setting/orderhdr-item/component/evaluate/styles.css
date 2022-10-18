@@ -1,0 +1,30 @@
+.table-row-light {
+  background-color: #ffffff;
+}
+.table-row-dark {
+  background-color: #fbfbfb;
+}
+.tag-parent {
+  font-weight: bold;
+}
+.tag-number {
+  text-align: right;
+}
+
+.btn-rate {
+  margin: 5px;
+  color: #ffc53d !important;
+  background-color: white !important;
+  border: 2px solid #ffc53d !important;
+  border-radius: 20px !important;
+  /* box-shadow: 0.5px 0.5px 2px #a99b9b !important; */
+}
+
+.btn-rate-unclick {
+  margin: 5px;
+  color: #817c7c !important;
+  background-color: white !important;
+  border: 2px solid #e7e7e7 !important;
+  border-radius: 20px !important;
+  /* box-shadow: 0.5px 0.5px 2px #a99b9b !important; */
+}

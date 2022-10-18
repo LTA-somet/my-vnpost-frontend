@@ -1,0 +1,26 @@
+.bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  width: 100%;
+  /* Full height */
+  height: 100%;
+  /* The image used */
+  background-color: coral;
+  background-repeat: no-repeat;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-size: cover;
+}
+@media only screen and (min-width: 576px) {
+  .g-collapse {
+    margin-left: -16px;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .g-collapse {
+    margin-left: -40px;
+  }
+}

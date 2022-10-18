@@ -1,0 +1,30 @@
+.data-grid thead tr {
+  background-color: #f0f2f5 !important;
+}
+.ant-upload-list-picture-card-container {
+  margin: 0 0 0 0 !important;
+}
+
+.ant-upload.ant-upload-select-picture-card {
+  margin-right: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.ant-upload-list-picture .ant-upload-list-item,
+.ant-upload-list-picture-card .ant-upload-list-item {
+  border: 0 !important;
+}
+
+.ant-upload.ant-upload-select-picture-card {
+  width: 100px;
+  height: 20px;
+  border: none !important;
+}
+
+.ant-upload.ant-upload-select-picture-card span div button {
+  border: none !important;
+}
+
+.button-group-right {
+  text-align: right;
+}

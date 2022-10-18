@@ -1,0 +1,7 @@
+.org-item {
+  text-align: center;
+  cursor: pointer;
+}
+.org-item:hover {
+  background-color: #fffad5;
+}

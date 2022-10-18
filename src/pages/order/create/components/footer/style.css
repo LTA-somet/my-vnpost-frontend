@@ -1,0 +1,7 @@
+.g-pane-container {
+  display: flex;
+  justify-content: space-between;
+}
+.g-bold {
+  font-weight: bold;
+}

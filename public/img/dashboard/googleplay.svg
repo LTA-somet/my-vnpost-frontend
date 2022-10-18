@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="48" viewBox="0 0 160 48">
+  <g id="Group_1600" data-name="Group 1600" transform="translate(-776 -4382.932)">
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="160" height="48" rx="4" transform="translate(776 4382.932)" fill="#5e2e88"/>
+    <path id="Path_87" data-name="Path 87" d="M7,0H76a4,4,0,0,1,4,4V44a4,4,0,0,1-4,4H-13Z" transform="translate(856 4382.932)" fill="#f1f1f1" opacity="0.05"/>
+    <g id="Group_59" data-name="Group 59" transform="translate(-2 140)">
+      <g id="Group_56" data-name="Group 56" transform="translate(119 2)">
+        <text id="Tải_về_từ" data-name="Tải về từ" transform="translate(717 4261)" fill="#fff" font-size="12" font-family="VETCRegular-Regular, VETC"><tspan x="0" y="0">Tải về từ</tspan></text>
+        <text id="Google_Play" data-name="Google Play" transform="translate(717 4277)" fill="#fff" font-size="14" font-family="VETC-Bold, VETC" font-weight="700"><tspan x="0" y="0">Google Play</tspan></text>
+      </g>
+      <path id="Google_Play-2" data-name="Google Play" d="M10.088,8a1.937,1.937,0,0,1,1.278.28l12.981,7.379-3.285,3.325Zm-1,1A2.307,2.307,0,0,0,9,9.668V30.3a2.307,2.307,0,0,0,.09.669L20.074,19.983ZM21.073,20.981,10.088,31.965a1.877,1.877,0,0,0,1.278-.28l12.981-7.379Zm8.508-2.337-3.934-2.237-3.595,3.575,3.585,3.585,3.934-2.237c1.3-.739,1.3-1.957,0-2.7Z" transform="translate(790 4247.016)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

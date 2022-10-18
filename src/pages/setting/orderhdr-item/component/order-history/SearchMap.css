@@ -1,0 +1,46 @@
+.MuiInputBase-input {
+  height: 30px !important;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 400px;
+}
+
+.map-container {
+  margin-top: 20px;
+}
+
+.list-address {
+  width: 100%;
+  margin-left: 4px;
+  padding: 0;
+  border: 1px solid #dddddd;
+  border-radius: 6px;
+}
+
+.list-add {
+  width: 100%;
+  height: 100%;
+  margin-left: 4px;
+  padding: 0;
+  border: 1px solid #dddddd;
+  border-radius: 6px;
+}
+
+.address-item {
+  min-height: 30px;
+  margin: 0;
+  padding: 5px 10px;
+  border-bottom: 1px solid #dddddd;
+  cursor: pointer;
+}
+
+.address-selected {
+  background-color: gainsboro;
+}
+
+.vpostcode {
+  color: gray;
+  font-size: 12px;
+}
